@@ -7,7 +7,7 @@ Following instructions below to configure webots-vehicle env
 4. Test your webots-vehicle env.
     1. start webots project 
         ```
-        webots vehicle_proj_dir/worlds/automotive_new.wbt
+        webots vehicle-Trajectory-Tracking/DRL/worlds/automotive_new.wbt
         ```
     2. make sure to use external control mode. If not, select `DEF TESLA ROBOT > controller` and change it to `<extern>`.
     3. run 
